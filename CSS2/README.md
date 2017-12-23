@@ -1,2 +1,3 @@
-# CSS2
-# CSS2
+# css-exercise-two
+Assignment for Fundamentals
+#CSS-2
